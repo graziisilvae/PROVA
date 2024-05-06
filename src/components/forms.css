@@ -1,0 +1,10 @@
+.formulario-container{
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+    
+.formulario-container legend{
+font-weight: bold;    
+}
+
